@@ -1,4 +1,4 @@
 void main()
 {
-    cin >> 1;
+    cout << "New branch";
 }
