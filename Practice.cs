@@ -1,3 +1,5 @@
-diajdaisjidjas
-    dsadjiajsid
-    fffsdfdsfasdfas
+void main()
+{
+    cout << "New branch";
+    cout << "Same thing";
+}
